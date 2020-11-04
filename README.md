@@ -3,7 +3,6 @@
 <h3 align="center">NLP lover and passionate about data science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itz-antaripa&label=Profile%20views&color=0e75b6&style=flat" alt="itz-antaripa" /> </p>
-
 <p align="left"> <a href="https://twitter.com/doesdatmaksense" target="blank"><img src="https://img.shields.io/twitter/follow/doesdatmaksense?logo=twitter&style=for-the-badge" alt="doesdatmaksense" /></a> </p>
 
 - 🔭 I’m currently working as a **Junior Machine learning Engineer @Omdena**
@@ -14,13 +13,23 @@
 
 - :star: Achievements: **Won first prize in Data Hackathon organized by IGDTUW during Innerve'20**
 
-- 💬 Ask me about **NLP, web scarping, Python, EDA, Tableau**
+- 💬 Ask me about **NLP, web scraping, Python, EDA, Tableau**
 
 - 📫 How to reach me **antaripasaha2000@gmail.com**
 
 - 😄 Pronouns: **She / her**
 
 - ⚡ Fact about me: **I like mornings, and I am a spiritual person.**
+
+### :school_satchel: Communities
+:snowflake: Chapter Lead @GirlScript Agartala
+
+:snowflake: Microsoft Learn Student Ambassador
+
+:snowflake: Co-lead @DSC-NITA
+
+:snowflake: Organizer of Kaggle Days Meetup Delhi NCR
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,9 +38,3 @@
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itz-antaripa&show_icons=true&locale=en" alt="itz-antaripa" /></p>
-
-### :school_satchel: Communities
-:snowflake: Chapter Lead @GirlScript Agartala
-:snowflake: Microsoft Learn Student Ambassador
-:snowflake: Co-lead @DSC-NITA
-:snowflake: Organizer of Kaggle Days Meetup Delhi NCR
