@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning more about **Natural Language Processing, deep learning, and diving deeper in the field of Data Science**
 
-- :star2: Stats about me: **I have deliver four talks on LinkedIn, Natural Language Processing, Data Analysis, etc.** @GirlScript Bilaspur, @MannkiBaat along with Cu coders, @IEEE student branch of Sathyabama University, and @Omdena
+- :star2: Stats about me: **I have delivered four talks as of now on LinkedIn, Natural Language Processing, Data Analysis, etc.** @GirlScript Bilaspur, @MannkiBaat along with Cu coders, @IEEE student branch of Sathyabama University, and @Omdena (Many more to come)
 
 - :star: Achievements: **Won first prize in Data Hackathon organized by IGDTUW during Innerve'20**
 
