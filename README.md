@@ -10,9 +10,9 @@
 <a href="https://www.linkedin.com/in/antaripa-saha/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="antaripa saha" height="30" width="40" /></a>
 </p>
 
-- 🔭 I’m currently working as a **Junior Machine learning Engineer @Omdena**
+- 🔭 I’m currently working as a **Applied Scientist at Data Facade**
 
-- 🌱 I’m currently learning more about **Natural Language Processing, deep learning, exploring Quantum Computing and diving deeper in the field of Data Science**
+- 🌱 I have previously worked at DailyHunt, Feynman, Omdena, etc. as a Machine Learning Engineer and gained some experience there.
 
 - :star2: Stats about me: **I have delivered six talks as of now on LinkedIn, Natural Language Processing, Data Analysis, etc.** @GirlScript Bilaspur, @MannkiBaat along with Cu coders, @IEEE student branch of Sathyabama University, and @Omdena (Many more to come)
 
