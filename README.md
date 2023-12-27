@@ -10,7 +10,7 @@
 <a href="https://www.linkedin.com/in/antaripa-saha/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="antaripa saha" height="30" width="40" /></a>
 </p>
 
-- 🔭 I’m currently working as a **Applied Scientist at Data Facade**
+- 🔭 I’m currently working as a **MLE at SproutsAI**
 
 - 🌱 I have previously worked at DailyHunt, Feynman, Omdena, etc. as a Machine Learning Engineer and gained some experience there.
 
