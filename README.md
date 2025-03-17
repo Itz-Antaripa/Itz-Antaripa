@@ -1,5 +1,5 @@
 <h1 align="center">Hi mates👋, my name is Antaripa Saha</h1>
-<h3 align="center">Just figuring it out. Playing with LLMs, building applications, training models, solving maths problem, and learning everyday.</h3>
+<h3 align="center">Just figuring it out. Playing with LLMs, building applications, training models, solving math problems, and learning everyday.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itz-antaripa&label=Profile%20views&color=0e75b6&style=flat" alt="itz-antaripa" /> </p>
 <p align="left"> <a href="https://twitter.com/doesdatmaksense" target="blank"><img src="https://img.shields.io/twitter/follow/doesdatmaksense?logo=twitter&style=for-the-badge" alt="doesdatmaksense" /></a> </p>
