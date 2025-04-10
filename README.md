@@ -1,5 +1,5 @@
-<h1 align="center">Hi mates👋, my name is Antaripa Saha</h1>
-<h3 align="center">Just figuring it out. Playing with LLMs, building applications, training models, solving math problems, and learning everyday.</h3>
+<h1 align="center">Hi folks👋, my name is Antaripa Saha</h1>
+<h3 align="center">Applied AI Consultant. Playing with LLMs, building agents, AI applications, training models, solving math problems, and learning everyday.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itz-antaripa&label=Profile%20views&color=0e75b6&style=flat" alt="itz-antaripa" /> </p>
 <p align="left"> <a href="https://twitter.com/doesdatmaksense" target="blank"><img src="https://img.shields.io/twitter/follow/doesdatmaksense?logo=twitter&style=for-the-badge" alt="doesdatmaksense" /></a> </p>
@@ -10,30 +10,14 @@
 <a href="https://www.linkedin.com/in/antaripa-saha/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="antaripa saha" height="30" width="40" /></a>
 </p>
 
-- 🔭 I’m currently working as a **MLE at SproutsAI**
+- Working currently with companies in the agentic and AI space, consulting them to help on AI front.
 
-- 🌱 I have previously worked at DailyHunt, Feynman, Omdena, etc. as a Machine Learning Engineer and gained some experience there.
+- Some of my current client companies:
+  - Agno (Opensource Agentic AI framework): I am building usecases for them there and also helping them with integrations.
+  - Mem0 (Memory layers for agents): Working with the team internally to improve the product, improve memory, write technical blogs, and build usecases for them.
+  - Grappus: Working with the team leading efforts in building Employee CRM tool application leveraging agents, databases, routing, benchmarking, and scaling it.
+ 
+- I have previously worked with SproutsAI leading the NLP team there, delivered autosourcing of candidates for company open positions. Scaled the system for handling 100 million candidates data. Built the search and recommendation pipeline. Finetuned embedding models for job clustering and candidate clustering.
+- Worked with Cimba.ai building the end-to-end flow for automating data analytics work, text-to-SQL, text-to-Python, semantic caching, benchmarking of our in-house text-to-SQL model with spider and BIRD dataset.
 
-- :star2: Stats about me: **I have delivered six talks as of now on LinkedIn, Natural Language Processing, Data Analysis, etc.** @GirlScript Bilaspur, @MannkiBaat along with Cu coders, @IEEE student branch of Sathyabama University, and @Omdena (Many more to come)
-
-- :star: Achievements: **Won first prize in Data Hackathon organized by IGDTUW during Innerve'20**
-
-- 💬 Ask me about **NLP, web scraping, Python, EDA, Tableau**
-
-- 📫 How to reach me **antaripasaha2000@gmail.com**
-
-- 😄 Pronouns: **She / her**
-
-- ⚡ Fact about me: **I like mornings, and I am a spiritual person.**
-
-### :school_satchel: Communities
-:snowflake: Chapter Lead @GirlScript Agartala
-
-:snowflake: Microsoft Learn Student Ambassador
-
-:snowflake: Co-lead @DSC-NITA
-
-:snowflake: Organizer of Kaggle Days Meetup Delhi NCR
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itz-antaripa&show_icons=true&locale=en" alt="itz-antaripa" /></p>
+For queries or consultancy reach out to me at antaripasaha2000@gmail.com
