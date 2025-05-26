@@ -13,12 +13,14 @@
 - Working currently with companies in the agentic and AI space, consulting them to help on AI front.
 
 - Some of my current client companies:
-  - **Mem0 (Memory layer for agents)**: Working with the team internally to improve the product, improve memory, write technical blogs, and build usecases for them.
-  - **Grappus**: Working with the team leading efforts in building Employee CRM tool application leveraging agents, databases, routing, benchmarking, and scaling it.
+  - **Mem0 (Memory layer for agents)**: Designing and implementing memory architectures for LLM agents, building use cases, and writing technical deep-dives on agent memory.
+  - **Tensorlake (Lightning-Fast Serverless Workflows for End-to-End Data Processing)**: Building fast, scalable pipelines for end-to-end data processing in collaboration with their team.
+  - **LuppaAI**: Building the evals framework for automated content generation for brands.
+  - **Grappus**: Designing and implementing ML pipelines and agentic workflows. Leading initiatives across multi-agent architecture and backend systems.
 
 - Previous clients:
-  - **Agno (Opensource Agentic AI framework)**: I am building usecases for them there and also helping them with integrations.
-  - **Sagacious**: Build an end-to-end RAG pipeline and search for telecom industry along with curation of data and finetuning of models.
+  - **Agno (Opensource Agentic AI framework)**: Built different agent use cases and tool integrations support with Agno.
+  - **Sagacious**: Designed and delivered a custom end-to-end search and retrieval system tailored for telecom domain, along with building dataset and evals for them.
  
 - I have previously worked with SproutsAI leading the NLP team there, delivered autosourcing of candidates for company open positions. Scaled the system for handling 100 million candidates data. Built the search and recommendation pipeline. Finetuned embedding models for job clustering and candidate clustering.
 - Worked with Cimba.ai building the end-to-end flow for automating data analytics work, text-to-SQL, text-to-Python, semantic caching, benchmarking of our in-house text-to-SQL model with spider and BIRD dataset.
