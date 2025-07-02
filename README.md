@@ -16,11 +16,11 @@
   - **Mem0 (Memory layer for agents)**: Designing and implementing memory architectures for LLM agents, building use cases, and writing technical deep-dives on agent memory.
   - **Tavily (Search Engine for LLM and Agents)**: Working on search and agents.
   - **Tensorlake (Lightning-Fast Serverless Workflows for End-to-End Data Processing)**: Building fast, scalable pipelines for end-to-end data processing in collaboration with their team.
-  - **Grappus**: Designing and implementing ML pipelines and agentic workflows. Leading initiatives across multi-agent architecture and backend systems.
 
 - Previous clients:
   - **Agno (Opensource Agentic AI framework)**: Built different agent use cases and tool integrations support with Agno.
   - **Sagacious**: Designed and delivered a custom end-to-end search and retrieval system tailored for the telecom domain, along with building dataset and evals for them.
+  - **Grappus**: Designing and implementing ML pipelines and agentic workflows. Leading initiatives across multi-agent architecture and backend systems.
   - **LuppaAI**: Building the evals framework for automated content generation for brands.
  
 - I have previously worked with SproutsAI, leading the NLP team there, and delivered autosourcing of candidates for company open positions. Scaled the system for handling 100 million candidates data. Built the search and recommendation pipeline. Finetuned embedding models for job clustering and candidate clustering.
