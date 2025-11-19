@@ -10,18 +10,21 @@
 <a href="https://www.linkedin.com/in/antaripa-saha/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="antaripa saha" height="30" width="40" /></a>
 
 
-- Working currently with companies in the agentic and AI space, consulting them to help on AI front.
+- Currently working at SpecStory (SpecStory Intent is the new source code | SpecStory) and building the intent layer behind your code.
+
+- Also working with companies in the agentic and AI space, consulting them to help on the AI front.
 
 - Companies/clients that I have worked with during my consultancy:
   - **Mem0 (Memory layer for agents)**: Memory for personalization in products.
   - **Tavily (Search Engine for LLM and Agents)**: Work on search and agents.
+  - **QuotientAI (Monitor AI Apps & Detect Hallucination)**: Evals and observability platform, detecting hallucinations in RAG and AI systems.
   - **Tensorlake (Lightning-Fast Serverless Workflows for End-to-End Data Processing)**: Fast, scalable pipelines for end-to-end data processing.
-  - **Agno (Opensource Agentic AI framework)**: Built different agent use cases and tool integrations support with Agno.
+  - **Agno (Opensource Agentic AI framework)**: Built different agent use cases and tool integrations to support Agno.
   - **Sagacious**: Designed and delivered a custom end-to-end search and retrieval system tailored for the telecom domain, along with building dataset and evals for them.
   - **Grappus**: Designed and implemented ML pipelines and agentic workflows. Leading initiatives across multi-agent architecture and backend systems.
   - **LuppaAI**: Built the evals framework for automated content generation for brands.
  
-- I have previously worked with SproutsAI, leading the NLP team there, and delivered autosourcing of candidates for company open positions. Scaled the system for handling 100 million candidates data. Built the search and recommendation pipeline. Finetuned embedding models for job clustering and candidate clustering.
+- I have previously worked with SproutsAI, leading the NLP team there, and delivered autosourcing of candidates for company open positions. Scaled the system for handling 100 million candidates' data. Built the search and recommendation pipeline. Finetuned embedding models for job clustering and candidate clustering.
 - Worked with Cimba.ai building the end-to-end flow for automating data analytics work, text-to-SQL, text-to-Python, semantic caching, benchmarking of our in-house text-to-SQL model with spider and BIRD dataset.
 
 For queries or consultancy, reach out to me at antaripasaha2000@gmail.com
