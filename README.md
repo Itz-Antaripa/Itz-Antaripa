@@ -10,7 +10,7 @@
 <a href="https://www.linkedin.com/in/antaripa-saha/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="antaripa saha" height="30" width="40" /></a>
 
 
-- Currently working at SpecStory (SpecStory Intent is the new source code | SpecStory) and building the intent layer behind your code.
+- Currently working at SpecStory and building the intent layer behind your code.
 
 - Also working with companies in the agentic and AI space, consulting them to help on the AI front.
 
