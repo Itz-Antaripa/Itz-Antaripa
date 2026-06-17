@@ -10,11 +10,12 @@
 <a href="https://www.linkedin.com/in/antaripa-saha/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="antaripa saha" height="30" width="40" /></a>
 
 
-- Currently working at SpecStory and building the intent layer behind your code.
+- Currently working with Hamel Husain and Isaac Flath in their research projects related to search and evals.
 
 - Also working with companies in the agentic and AI space, consulting them to help on the AI front.
 
 - Companies/clients that I have worked with during my consultancy:
+  - **SpecStory** building the intent layer behind your code.
   - **Mem0 (Memory layer for agents)**: Memory for personalization in products.
   - **Tavily (Search Engine for LLM and Agents)**: Work on search and agents.
   - **QuotientAI (Monitor AI Apps & Detect Hallucination)**: Evals and observability platform, detecting hallucinations in RAG and AI systems.
